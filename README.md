@@ -19,7 +19,7 @@ To get started with the project, clone this repository and follow the steps belo
 Make sure you have Node.js and npm installed on your machine.
 
 **Steps to Install**
-Clone the repository: git clone https://github.com/Rishabh-Dev-Mishra/Code-Sync.git
+Clone the repository: git clone 
 
 **Navigate into the project directory:** cd Code-Sync
 
